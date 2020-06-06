@@ -1,6 +1,6 @@
 
 consummer:
-  info: testInformation v2
+  info: testInformation v3
 
 spring:
   thymeleaf:
@@ -39,9 +39,6 @@ logging:
     com.dj.boot.mapper: debug
 
 
-
-server:
-  port: 8001
 
 
 mybatis-plus:
