@@ -1,6 +1,6 @@
 
 consummer:
-  info: testInformation
+  info: testInformation v2
 
 spring:
   thymeleaf:
