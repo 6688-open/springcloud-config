@@ -1,5 +1,6 @@
 
-
+consummer:
+  info: testInformation
 
 spring:
   thymeleaf:
